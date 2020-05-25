@@ -1,0 +1,4 @@
+include ':app', ':backend'
+include ':jokelibrary'
+include ':JokeLib'
+include ':jokesbutandroidlib'
